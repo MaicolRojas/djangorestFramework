@@ -1,0 +1,5 @@
+from .CategoriaSerializers import Categoriaserializers
+from .ProductosSerializers import ProductosSerializers
+from .UsuariosSerializers import UsuariosSerializers
+from .ClienteSerializers import ClienteSerializers
+from .VentasSerializers import VentasSerializers
